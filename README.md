@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**xavierdmr/xavierdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👋
+I am a **Senior at the University of Notre Dame** studying **Economics and Global Affairs with a minor in Computing and Digital Technologies**.
 
-Here are some ideas to get you started:
+___
+## Education 🎓
+- **Bachelor of Arts (In Progress)** - University of Notre Dame
+- 
+___
+## Certifications 📜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+## Languages and Tools 🛠️
+
+
+## Let's Connect 🌐
+<a href="[https://www.linkedin.com/in/xaviermarlowerogers/](https://www.linkedin.com/in/xaviermarlowerogers/)">
