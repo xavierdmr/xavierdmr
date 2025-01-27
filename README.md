@@ -10,7 +10,8 @@ ___
 
 ___
 ## Languages and Tools 🛠️
-- **Python (Limited Proficiency)** 
+- **Python (Limited Proficiency)**
+- **Stata (High Proficiency)**
 
 ## Let's Connect 🌐
 - [LinkedIn](https://www.linkedin.com/in/xaviermarlowerogers/)
