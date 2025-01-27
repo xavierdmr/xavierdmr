@@ -13,5 +13,9 @@ ___
 - **Python (Limited Proficiency)**
 - **Stata (High Proficiency)**
 
+___
+## Data Science Projects 🚀
+
+___
 ## Let's Connect 🌐
 - [LinkedIn](https://www.linkedin.com/in/xaviermarlowerogers/)
