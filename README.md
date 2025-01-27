@@ -4,13 +4,13 @@ I am a **Senior at the University of Notre Dame** studying **Economics and Globa
 
 ___
 ## Education 🎓
-- **Bachelor of Arts (In Progress)** - University of Notre Dame
+- **Bachelor of Arts (In Progress, Graduating Spring 2025)** - University of Notre Dame
 ___
 ## Certifications 📜
 
 ___
 ## Languages and Tools 🛠️
-- **Python (Limited Proficiency)** - 
+- **Python (Limited Proficiency)** 
 
 ## Let's Connect 🌐
 - [LinkedIn](https://www.linkedin.com/in/xaviermarlowerogers/)
