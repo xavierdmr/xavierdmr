@@ -10,7 +10,7 @@ ___
 
 ___
 ## Languages and Tools 🛠️
-
+- **Python (Limited Proficiency)** - 
 
 ## Let's Connect 🌐
-<a href="[https://www.linkedin.com/in/xaviermarlowerogers/](https://www.linkedin.com/in/xaviermarlowerogers/)">
+- [LinkedIn](https://www.linkedin.com/in/xaviermarlowerogers/)
