@@ -5,7 +5,6 @@ I am a **Senior at the University of Notre Dame** studying **Economics and Globa
 ___
 ## Education 🎓
 - **Bachelor of Arts (In Progress)** - University of Notre Dame
-- 
 ___
 ## Certifications 📜
 
