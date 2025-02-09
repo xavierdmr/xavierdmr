@@ -4,11 +4,11 @@ I am a **Senior at the University of Notre Dame** studying **Economics and Globa
 
 ___
 ## Education 🎓
-- **Bachelor of Arts (In Progress, Graduating Spring 2025)** - University of Notre Dame
+- **Bachelor of Arts (In Progress, Graduating Spring 2025)** - University of Notre Dame 
 
 ___
 ## Current Projects 🚀
-- Basic Streamlit App
+- Basic Streamlit App - Portfolio Update 1 App - "Pick A Penguin"
 
 ___
 ## Skills 🛠️
