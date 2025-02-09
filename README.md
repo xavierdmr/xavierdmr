@@ -18,11 +18,11 @@ ___
 
 ___
 ## Goals 🥅
-- Improve proficiency in Python
+- Improve overall proficiency in Python
 - Feel confident in building an app that accomplishes a specific task
-- Able to analyze data and present a compelling narrative
+- Able to analyze data and present insights using compelling narratives
 
 ___
 ## Let's Connect 🌐
-- [LinkedIn](https://www.linkedin.com/in/xaviermarlowerogers/)
+- **LinkedIn:** https://www.linkedin.com/in/xaviermarlowerogers/
 - **Email:** xmarlowe@nd.edu
