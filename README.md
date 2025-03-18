@@ -10,6 +10,7 @@ ___
 ___
 ## Current Projects 🚀
 - Basic Streamlit App - Portfolio Update 1 App - "Pick A Penguin"
+- Tidy Data Project - Portfolio Update 2 - 2008 Beijing Summer Olympics Data Cleaning and Analysis
 
 ___
 ## Skills 🛠️
@@ -24,5 +25,5 @@ ___
 
 ___
 ## Let's Connect 🌐
-- **LinkedIn:** https://www.linkedin.com/in/xaviermarlowerogers/
-- **Email:** xmarlowe@nd.edu
+- [**LinkedIn:**](https://www.linkedin.com/in/xaviermarlowerogers/)
+- [xmarlowe@nd.edu](xmarlowe@nd.edu)
