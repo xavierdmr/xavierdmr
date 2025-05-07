@@ -10,13 +10,13 @@ ___
 
 ___
 ## Link to Main Python Repository: 
-[MARLOWE-ROGERS-Python-Portfolio](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio)
+[**MARLOWE-ROGERS-Python-Portfolio**](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio)
 ___
 ## Completed Projects for Elements of Computing II 🚀
 - [Basic Streamlit App](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio/tree/main/basic-streamlit-app) - Portfolio Update 1 App - "Pick A Penguin"
 - [Tidy Data Project](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio/tree/main/TidyData-Project) - Portfolio Update 2 - 2008 Beijing Summer Olympics Data Cleaning and Analysis
-- [Named Entity Recognition (NER) App](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio/tree/main/NERStreamlitApp) - Portfolio Update 3 – [Link to app](https://rogers-ner-app.streamlit.app/)
-- [Country Comparison App](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio/tree/main/StreamlitAppFinal) - Final Project – [Link to app](https://wdi-country-comparison.streamlit.app/)
+- [Named Entity Recognition (NER) App](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio/tree/main/NERStreamlitApp) - Portfolio Update 3 – [**Link to app**](https://rogers-ner-app.streamlit.app/)
+- [Country Comparison App](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio/tree/main/StreamlitAppFinal) - Final Project – [**Link to app**](https://wdi-country-comparison.streamlit.app/)
 
 ___
 ## Skills 🛠️
@@ -33,4 +33,4 @@ ___
 ___
 ## Let's Connect 🌐
 - [**LinkedIn**](https://www.linkedin.com/in/xaviermarlowerogers/)
-- [xmarlowe@nd.edu](xmarlowe@nd.edu)
+- [**xmarlowe@nd.edu**](xmarlowe@nd.edu)
