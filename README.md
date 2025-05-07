@@ -9,7 +9,8 @@ ___
 
 
 ___
-## Link to Main Python Repository: [MARLOWE-ROGERS-Python-Portfolio](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio)
+## Link to Main Python Repository: 
+[MARLOWE-ROGERS-Python-Portfolio](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio)
 ___
 ## Completed Projects for Elements of Computing II 🚀
 - [Basic Streamlit App](https://github.com/xavierdmr/MARLOWE-ROGERS-Python-Portfolio/tree/main/basic-streamlit-app) - Portfolio Update 1 App - "Pick A Penguin"
